@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Dataflow",
+    "displayName": "df2_08_aleksi"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "5b662464-763e-bdc3-4ccc-53b5fc9bb470"
+  }
+}
